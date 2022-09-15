@@ -8,7 +8,7 @@ a = 0
 b = 1
 flag = True
 
-#hey i'm trying to learn
+#hey i'm trying to learn kjlhbfkjhgs;lkjdfhg;kjlsdf
 for n in arr1:
     while a < n and flag:
         a, b = b, a+b
