@@ -1,0 +1,97 @@
+#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+6.0,Charizard,Fire,Flying,534.0,78.0,84.0,78.0,109.0,85.0,100.0,1.0,False
+12.0,Butterfree,Bug,Flying,395.0,60.0,45.0,50.0,90.0,80.0,70.0,1.0,False
+16.0,Pidgey,Normal,Flying,251.0,40.0,45.0,40.0,35.0,35.0,56.0,1.0,False
+17.0,Pidgeotto,Normal,Flying,349.0,63.0,60.0,55.0,50.0,50.0,71.0,1.0,False
+18.0,Pidgeot,Normal,Flying,479.0,83.0,80.0,75.0,70.0,70.0,101.0,1.0,False
+21.0,Spearow,Normal,Flying,262.0,40.0,60.0,30.0,31.0,31.0,70.0,1.0,False
+22.0,Fearow,Normal,Flying,442.0,65.0,90.0,65.0,61.0,61.0,100.0,1.0,False
+41.0,Zubat,Poison,Flying,245.0,40.0,45.0,35.0,30.0,40.0,55.0,1.0,False
+42.0,Golbat,Poison,Flying,455.0,75.0,80.0,70.0,65.0,75.0,90.0,1.0,False
+83.0,Farfetch'd,Normal,Flying,352.0,52.0,65.0,55.0,58.0,62.0,60.0,1.0,False
+84.0,Doduo,Normal,Flying,310.0,35.0,85.0,45.0,35.0,35.0,75.0,1.0,False
+85.0,Dodrio,Normal,Flying,460.0,60.0,110.0,70.0,60.0,60.0,100.0,1.0,False
+123.0,Scyther,Bug,Flying,500.0,70.0,110.0,80.0,55.0,80.0,105.0,1.0,False
+130.0,Gyarados,Water,Flying,540.0,95.0,125.0,79.0,60.0,100.0,81.0,1.0,False
+142.0,Aerodactyl,Rock,Flying,515.0,80.0,105.0,65.0,60.0,75.0,130.0,1.0,False
+144.0,Articuno,Ice,Flying,580.0,90.0,85.0,100.0,95.0,125.0,85.0,1.0,True
+145.0,Zapdos,Electric,Flying,580.0,90.0,90.0,85.0,125.0,90.0,100.0,1.0,True
+146.0,Moltres,Fire,Flying,580.0,90.0,100.0,90.0,125.0,85.0,90.0,1.0,True
+149.0,Dragonite,Dragon,Flying,600.0,91.0,134.0,95.0,100.0,100.0,80.0,1.0,False
+163.0,Hoothoot,Normal,Flying,262.0,60.0,30.0,30.0,36.0,56.0,50.0,2.0,False
+164.0,Noctowl,Normal,Flying,442.0,100.0,50.0,50.0,76.0,96.0,70.0,2.0,False
+165.0,Ledyba,Bug,Flying,265.0,40.0,20.0,30.0,40.0,80.0,55.0,2.0,False
+166.0,Ledian,Bug,Flying,390.0,55.0,35.0,50.0,55.0,110.0,85.0,2.0,False
+169.0,Crobat,Poison,Flying,535.0,85.0,90.0,80.0,70.0,80.0,130.0,2.0,False
+176.0,Togetic,Fairy,Flying,405.0,55.0,40.0,85.0,80.0,105.0,40.0,2.0,False
+177.0,Natu,Psychic,Flying,320.0,40.0,50.0,45.0,70.0,45.0,70.0,2.0,False
+178.0,Xatu,Psychic,Flying,470.0,65.0,75.0,70.0,95.0,70.0,95.0,2.0,False
+187.0,Hoppip,Grass,Flying,250.0,35.0,35.0,40.0,35.0,55.0,50.0,2.0,False
+188.0,Skiploom,Grass,Flying,340.0,55.0,45.0,50.0,45.0,65.0,80.0,2.0,False
+189.0,Jumpluff,Grass,Flying,460.0,75.0,55.0,70.0,55.0,95.0,110.0,2.0,False
+193.0,Yanma,Bug,Flying,390.0,65.0,65.0,45.0,75.0,45.0,95.0,2.0,False
+198.0,Murkrow,Dark,Flying,405.0,60.0,85.0,42.0,85.0,42.0,91.0,2.0,False
+207.0,Gligar,Ground,Flying,430.0,65.0,75.0,105.0,35.0,65.0,85.0,2.0,False
+225.0,Delibird,Ice,Flying,330.0,45.0,55.0,45.0,65.0,45.0,75.0,2.0,False
+226.0,Mantine,Water,Flying,465.0,65.0,40.0,70.0,80.0,140.0,70.0,2.0,False
+227.0,Skarmory,Steel,Flying,465.0,65.0,80.0,140.0,40.0,70.0,70.0,2.0,False
+249.0,Lugia,Psychic,Flying,680.0,106.0,90.0,130.0,90.0,154.0,110.0,2.0,True
+250.0,Ho-oh,Fire,Flying,680.0,106.0,130.0,90.0,110.0,154.0,90.0,2.0,True
+267.0,Beautifly,Bug,Flying,395.0,60.0,70.0,50.0,100.0,50.0,65.0,3.0,False
+276.0,Taillow,Normal,Flying,270.0,40.0,55.0,30.0,30.0,30.0,85.0,3.0,False
+277.0,Swellow,Normal,Flying,430.0,60.0,85.0,60.0,50.0,50.0,125.0,3.0,False
+278.0,Wingull,Water,Flying,270.0,40.0,30.0,30.0,55.0,30.0,85.0,3.0,False
+279.0,Pelipper,Water,Flying,430.0,60.0,50.0,100.0,85.0,70.0,65.0,3.0,False
+284.0,Masquerain,Bug,Flying,414.0,70.0,60.0,62.0,80.0,82.0,60.0,3.0,False
+291.0,Ninjask,Bug,Flying,456.0,61.0,90.0,45.0,50.0,50.0,160.0,3.0,False
+333.0,Swablu,Normal,Flying,310.0,45.0,40.0,60.0,40.0,75.0,50.0,3.0,False
+334.0,Altaria,Dragon,Flying,490.0,75.0,70.0,90.0,70.0,105.0,80.0,3.0,False
+357.0,Tropius,Grass,Flying,460.0,99.0,68.0,83.0,72.0,87.0,51.0,3.0,False
+373.0,Salamence,Dragon,Flying,600.0,95.0,135.0,80.0,110.0,80.0,100.0,3.0,False
+384.0,Rayquaza,Dragon,Flying,680.0,105.0,150.0,90.0,150.0,90.0,95.0,3.0,True
+396.0,Starly,Normal,Flying,245.0,40.0,55.0,30.0,30.0,30.0,60.0,4.0,False
+397.0,Staravia,Normal,Flying,340.0,55.0,75.0,50.0,40.0,40.0,80.0,4.0,False
+398.0,Staraptor,Normal,Flying,485.0,85.0,120.0,70.0,50.0,60.0,100.0,4.0,False
+414.0,Mothim,Bug,Flying,424.0,70.0,94.0,50.0,94.0,50.0,66.0,4.0,False
+415.0,Combee,Bug,Flying,244.0,30.0,30.0,42.0,30.0,42.0,70.0,4.0,False
+416.0,Vespiquen,Bug,Flying,474.0,70.0,80.0,102.0,80.0,102.0,40.0,4.0,False
+425.0,Drifloon,Ghost,Flying,348.0,90.0,50.0,34.0,60.0,44.0,70.0,4.0,False
+426.0,Drifblim,Ghost,Flying,498.0,150.0,80.0,44.0,90.0,54.0,80.0,4.0,False
+430.0,Honchkrow,Dark,Flying,505.0,100.0,125.0,52.0,105.0,52.0,71.0,4.0,False
+441.0,Chatot,Normal,Flying,411.0,76.0,65.0,45.0,92.0,42.0,91.0,4.0,False
+458.0,Mantyke,Water,Flying,345.0,45.0,20.0,50.0,60.0,120.0,50.0,4.0,False
+468.0,Togekiss,Fairy,Flying,545.0,85.0,50.0,95.0,120.0,115.0,80.0,4.0,False
+469.0,Yanmega,Bug,Flying,515.0,86.0,76.0,86.0,116.0,56.0,95.0,4.0,False
+472.0,Gliscor,Ground,Flying,510.0,75.0,95.0,125.0,45.0,75.0,95.0,4.0,False
+479.0,RotomFan Rotom,Electric,Flying,520.0,50.0,65.0,107.0,105.0,107.0,86.0,4.0,False
+492.0,ShayminSky Forme,Grass,Flying,600.0,100.0,103.0,75.0,120.0,75.0,127.0,4.0,True
+519.0,Pidove,Normal,Flying,264.0,50.0,55.0,50.0,36.0,30.0,43.0,5.0,False
+520.0,Tranquill,Normal,Flying,358.0,62.0,77.0,62.0,50.0,42.0,65.0,5.0,False
+521.0,Unfezant,Normal,Flying,488.0,80.0,115.0,80.0,65.0,55.0,93.0,5.0,False
+527.0,Woobat,Psychic,Flying,313.0,55.0,45.0,43.0,55.0,43.0,72.0,5.0,False
+528.0,Swoobat,Psychic,Flying,425.0,67.0,57.0,55.0,77.0,55.0,114.0,5.0,False
+561.0,Sigilyph,Psychic,Flying,490.0,72.0,58.0,80.0,103.0,80.0,97.0,5.0,False
+566.0,Archen,Rock,Flying,401.0,55.0,112.0,45.0,74.0,45.0,70.0,5.0,False
+567.0,Archeops,Rock,Flying,567.0,75.0,140.0,65.0,112.0,65.0,110.0,5.0,False
+580.0,Ducklett,Water,Flying,305.0,62.0,44.0,50.0,44.0,50.0,55.0,5.0,False
+581.0,Swanna,Water,Flying,473.0,75.0,87.0,63.0,87.0,63.0,98.0,5.0,False
+587.0,Emolga,Electric,Flying,428.0,55.0,75.0,60.0,75.0,60.0,103.0,5.0,False
+627.0,Rufflet,Normal,Flying,350.0,70.0,83.0,50.0,37.0,50.0,60.0,5.0,False
+628.0,Braviary,Normal,Flying,510.0,100.0,123.0,75.0,57.0,75.0,80.0,5.0,False
+629.0,Vullaby,Dark,Flying,370.0,70.0,55.0,75.0,45.0,65.0,60.0,5.0,False
+630.0,Mandibuzz,Dark,Flying,510.0,110.0,65.0,105.0,55.0,95.0,80.0,5.0,False
+641.0,TornadusIncarnate Forme,Flying,,580.0,79.0,115.0,70.0,125.0,80.0,111.0,5.0,True
+641.0,TornadusTherian Forme,Flying,,580.0,79.0,100.0,80.0,110.0,90.0,121.0,5.0,True
+642.0,ThundurusIncarnate Forme,Electric,Flying,580.0,79.0,115.0,70.0,125.0,80.0,111.0,5.0,True
+642.0,ThundurusTherian Forme,Electric,Flying,580.0,79.0,105.0,70.0,145.0,80.0,101.0,5.0,True
+645.0,LandorusIncarnate Forme,Ground,Flying,600.0,89.0,125.0,90.0,115.0,80.0,101.0,5.0,True
+645.0,LandorusTherian Forme,Ground,Flying,600.0,89.0,145.0,90.0,105.0,80.0,91.0,5.0,True
+661.0,Fletchling,Normal,Flying,278.0,45.0,50.0,43.0,40.0,38.0,62.0,6.0,False
+662.0,Fletchinder,Fire,Flying,382.0,62.0,73.0,55.0,56.0,52.0,84.0,6.0,False
+663.0,Talonflame,Fire,Flying,499.0,78.0,81.0,71.0,74.0,69.0,126.0,6.0,False
+666.0,Vivillon,Bug,Flying,411.0,80.0,52.0,50.0,90.0,50.0,89.0,6.0,False
+701.0,Hawlucha,Fighting,Flying,500.0,78.0,92.0,75.0,74.0,63.0,118.0,6.0,False
+714.0,Noibat,Flying,Dragon,245.0,40.0,30.0,35.0,45.0,40.0,55.0,6.0,False
+715.0,Noivern,Flying,Dragon,535.0,85.0,70.0,80.0,97.0,80.0,123.0,6.0,False
+717.0,Yveltal,Dark,Flying,680.0,126.0,131.0,95.0,131.0,98.0,99.0,6.0,True
+,,,,441.3578947368421,70.54736842105264,76.88421052631578,66.29473684210527,73.51578947368421,69.7578947368421,84.3578947368421,,

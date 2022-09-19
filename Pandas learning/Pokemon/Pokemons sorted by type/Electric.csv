@@ -1,0 +1,50 @@
+#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+25.0,Pikachu,Electric,,320.0,35.0,55.0,40.0,50.0,50.0,90.0,1.0,False
+26.0,Raichu,Electric,,485.0,60.0,90.0,55.0,90.0,80.0,110.0,1.0,False
+81.0,Magnemite,Electric,Steel,325.0,25.0,35.0,70.0,95.0,55.0,45.0,1.0,False
+82.0,Magneton,Electric,Steel,465.0,50.0,60.0,95.0,120.0,70.0,70.0,1.0,False
+100.0,Voltorb,Electric,,330.0,40.0,30.0,50.0,55.0,55.0,100.0,1.0,False
+101.0,Electrode,Electric,,480.0,60.0,50.0,70.0,80.0,80.0,140.0,1.0,False
+125.0,Electabuzz,Electric,,490.0,65.0,83.0,57.0,95.0,85.0,105.0,1.0,False
+135.0,Jolteon,Electric,,525.0,65.0,65.0,60.0,110.0,95.0,130.0,1.0,False
+145.0,Zapdos,Electric,Flying,580.0,90.0,90.0,85.0,125.0,90.0,100.0,1.0,True
+170.0,Chinchou,Water,Electric,330.0,75.0,38.0,38.0,56.0,56.0,67.0,2.0,False
+171.0,Lanturn,Water,Electric,460.0,125.0,58.0,58.0,76.0,76.0,67.0,2.0,False
+172.0,Pichu,Electric,,205.0,20.0,40.0,15.0,35.0,35.0,60.0,2.0,False
+179.0,Mareep,Electric,,280.0,55.0,40.0,40.0,65.0,45.0,35.0,2.0,False
+180.0,Flaaffy,Electric,,365.0,70.0,55.0,55.0,80.0,60.0,45.0,2.0,False
+181.0,Ampharos,Electric,,510.0,90.0,75.0,85.0,115.0,90.0,55.0,2.0,False
+239.0,Elekid,Electric,,360.0,45.0,63.0,37.0,65.0,55.0,95.0,2.0,False
+243.0,Raikou,Electric,,580.0,90.0,85.0,75.0,115.0,100.0,115.0,2.0,True
+309.0,Electrike,Electric,,295.0,40.0,45.0,40.0,65.0,40.0,65.0,3.0,False
+310.0,Manectric,Electric,,475.0,70.0,75.0,60.0,105.0,60.0,105.0,3.0,False
+311.0,Plusle,Electric,,405.0,60.0,50.0,40.0,85.0,75.0,95.0,3.0,False
+312.0,Minun,Electric,,405.0,60.0,40.0,50.0,75.0,85.0,95.0,3.0,False
+403.0,Shinx,Electric,,263.0,45.0,65.0,34.0,40.0,34.0,45.0,4.0,False
+404.0,Luxio,Electric,,363.0,60.0,85.0,49.0,60.0,49.0,60.0,4.0,False
+405.0,Luxray,Electric,,523.0,80.0,120.0,79.0,95.0,79.0,70.0,4.0,False
+417.0,Pachirisu,Electric,,405.0,60.0,45.0,70.0,45.0,90.0,95.0,4.0,False
+462.0,Magnezone,Electric,Steel,535.0,70.0,70.0,115.0,130.0,90.0,60.0,4.0,False
+466.0,Electivire,Electric,,540.0,75.0,123.0,67.0,95.0,85.0,95.0,4.0,False
+479.0,Rotom,Electric,Ghost,440.0,50.0,50.0,77.0,95.0,77.0,91.0,4.0,False
+479.0,RotomHeat Rotom,Electric,Fire,520.0,50.0,65.0,107.0,105.0,107.0,86.0,4.0,False
+479.0,RotomWash Rotom,Electric,Water,520.0,50.0,65.0,107.0,105.0,107.0,86.0,4.0,False
+479.0,RotomFrost Rotom,Electric,Ice,520.0,50.0,65.0,107.0,105.0,107.0,86.0,4.0,False
+479.0,RotomFan Rotom,Electric,Flying,520.0,50.0,65.0,107.0,105.0,107.0,86.0,4.0,False
+479.0,RotomMow Rotom,Electric,Grass,520.0,50.0,65.0,107.0,105.0,107.0,86.0,4.0,False
+522.0,Blitzle,Electric,,295.0,45.0,60.0,32.0,50.0,32.0,76.0,5.0,False
+523.0,Zebstrika,Electric,,497.0,75.0,100.0,63.0,80.0,63.0,116.0,5.0,False
+587.0,Emolga,Electric,Flying,428.0,55.0,75.0,60.0,75.0,60.0,103.0,5.0,False
+595.0,Joltik,Bug,Electric,319.0,50.0,47.0,50.0,57.0,50.0,65.0,5.0,False
+596.0,Galvantula,Bug,Electric,472.0,70.0,77.0,60.0,97.0,60.0,108.0,5.0,False
+602.0,Tynamo,Electric,,275.0,35.0,55.0,40.0,45.0,40.0,60.0,5.0,False
+603.0,Eelektrik,Electric,,405.0,65.0,85.0,70.0,75.0,70.0,40.0,5.0,False
+604.0,Eelektross,Electric,,515.0,85.0,115.0,80.0,105.0,80.0,50.0,5.0,False
+618.0,Stunfisk,Ground,Electric,471.0,109.0,66.0,84.0,81.0,99.0,32.0,5.0,False
+642.0,ThundurusIncarnate Forme,Electric,Flying,580.0,79.0,115.0,70.0,125.0,80.0,111.0,5.0,True
+642.0,ThundurusTherian Forme,Electric,Flying,580.0,79.0,105.0,70.0,145.0,80.0,101.0,5.0,True
+644.0,Zekrom,Dragon,Electric,680.0,100.0,150.0,120.0,120.0,100.0,90.0,5.0,True
+694.0,Helioptile,Electric,Normal,289.0,44.0,38.0,33.0,61.0,43.0,70.0,6.0,False
+695.0,Heliolisk,Electric,Normal,481.0,62.0,55.0,52.0,109.0,94.0,109.0,6.0,False
+702.0,Dedenne,Electric,Fairy,431.0,67.0,58.0,57.0,81.0,67.0,101.0,6.0,False
+,,,,438.6875,62.5,68.875,65.45833333333333,86.41666666666667,72.79166666666667,82.64583333333333,,

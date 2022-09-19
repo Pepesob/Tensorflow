@@ -1,0 +1,48 @@
+#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+56.0,Mankey,Fighting,,305.0,40.0,80.0,35.0,35.0,45.0,70.0,1.0,False
+57.0,Primeape,Fighting,,455.0,65.0,105.0,60.0,60.0,70.0,95.0,1.0,False
+62.0,Poliwrath,Water,Fighting,510.0,90.0,95.0,95.0,70.0,90.0,70.0,1.0,False
+66.0,Machop,Fighting,,305.0,70.0,80.0,50.0,35.0,35.0,35.0,1.0,False
+67.0,Machoke,Fighting,,405.0,80.0,100.0,70.0,50.0,60.0,45.0,1.0,False
+68.0,Machamp,Fighting,,505.0,90.0,130.0,80.0,65.0,85.0,55.0,1.0,False
+106.0,Hitmonlee,Fighting,,455.0,50.0,120.0,53.0,35.0,110.0,87.0,1.0,False
+107.0,Hitmonchan,Fighting,,455.0,50.0,105.0,79.0,35.0,110.0,76.0,1.0,False
+214.0,Heracross,Bug,Fighting,500.0,80.0,125.0,75.0,40.0,95.0,85.0,2.0,False
+236.0,Tyrogue,Fighting,,210.0,35.0,35.0,35.0,35.0,35.0,35.0,2.0,False
+237.0,Hitmontop,Fighting,,455.0,50.0,95.0,95.0,35.0,110.0,70.0,2.0,False
+256.0,Combusken,Fire,Fighting,405.0,60.0,85.0,60.0,85.0,60.0,55.0,3.0,False
+257.0,Blaziken,Fire,Fighting,530.0,80.0,120.0,70.0,110.0,70.0,80.0,3.0,False
+286.0,Breloom,Grass,Fighting,460.0,60.0,130.0,80.0,60.0,60.0,70.0,3.0,False
+296.0,Makuhita,Fighting,,237.0,72.0,60.0,30.0,20.0,30.0,25.0,3.0,False
+297.0,Hariyama,Fighting,,474.0,144.0,120.0,60.0,40.0,60.0,50.0,3.0,False
+307.0,Meditite,Fighting,Psychic,280.0,30.0,40.0,55.0,40.0,55.0,60.0,3.0,False
+308.0,Medicham,Fighting,Psychic,410.0,60.0,60.0,75.0,60.0,75.0,80.0,3.0,False
+391.0,Monferno,Fire,Fighting,405.0,64.0,78.0,52.0,78.0,52.0,81.0,4.0,False
+392.0,Infernape,Fire,Fighting,534.0,76.0,104.0,71.0,104.0,71.0,108.0,4.0,False
+447.0,Riolu,Fighting,,285.0,40.0,70.0,40.0,35.0,40.0,60.0,4.0,False
+448.0,Lucario,Fighting,Steel,525.0,70.0,110.0,70.0,115.0,70.0,90.0,4.0,False
+453.0,Croagunk,Poison,Fighting,300.0,48.0,61.0,40.0,61.0,40.0,50.0,4.0,False
+454.0,Toxicroak,Poison,Fighting,490.0,83.0,106.0,65.0,86.0,65.0,85.0,4.0,False
+475.0,Gallade,Psychic,Fighting,518.0,68.0,125.0,65.0,65.0,115.0,80.0,4.0,False
+499.0,Pignite,Fire,Fighting,418.0,90.0,93.0,55.0,70.0,55.0,55.0,5.0,False
+500.0,Emboar,Fire,Fighting,528.0,110.0,123.0,65.0,100.0,65.0,65.0,5.0,False
+532.0,Timburr,Fighting,,305.0,75.0,80.0,55.0,25.0,35.0,35.0,5.0,False
+533.0,Gurdurr,Fighting,,405.0,85.0,105.0,85.0,40.0,50.0,40.0,5.0,False
+534.0,Conkeldurr,Fighting,,505.0,105.0,140.0,95.0,55.0,65.0,45.0,5.0,False
+538.0,Throh,Fighting,,465.0,120.0,100.0,85.0,30.0,85.0,45.0,5.0,False
+539.0,Sawk,Fighting,,465.0,75.0,125.0,75.0,30.0,75.0,85.0,5.0,False
+559.0,Scraggy,Dark,Fighting,348.0,50.0,75.0,70.0,35.0,70.0,48.0,5.0,False
+560.0,Scrafty,Dark,Fighting,488.0,65.0,90.0,115.0,45.0,115.0,58.0,5.0,False
+619.0,Mienfoo,Fighting,,350.0,45.0,85.0,50.0,55.0,50.0,65.0,5.0,False
+620.0,Mienshao,Fighting,,510.0,65.0,125.0,60.0,95.0,60.0,105.0,5.0,False
+638.0,Cobalion,Steel,Fighting,580.0,91.0,90.0,129.0,90.0,72.0,108.0,5.0,True
+639.0,Terrakion,Rock,Fighting,580.0,91.0,129.0,90.0,72.0,90.0,108.0,5.0,True
+640.0,Virizion,Grass,Fighting,580.0,91.0,90.0,72.0,90.0,129.0,108.0,5.0,True
+647.0,KeldeoOrdinary Forme,Water,Fighting,580.0,91.0,72.0,90.0,129.0,90.0,108.0,5.0,False
+647.0,KeldeoResolute Forme,Water,Fighting,580.0,91.0,72.0,90.0,129.0,90.0,108.0,5.0,False
+648.0,MeloettaPirouette Forme,Normal,Fighting,600.0,100.0,128.0,90.0,77.0,77.0,128.0,5.0,False
+652.0,Chesnaught,Grass,Fighting,530.0,88.0,107.0,122.0,74.0,75.0,64.0,6.0,False
+674.0,Pancham,Fighting,,348.0,67.0,82.0,62.0,46.0,48.0,43.0,6.0,False
+675.0,Pangoro,Fighting,Dark,495.0,95.0,124.0,78.0,69.0,71.0,58.0,6.0,False
+701.0,Hawlucha,Fighting,Flying,500.0,78.0,92.0,75.0,74.0,63.0,118.0,6.0,False
+,,,,447.2391304347826,74.41304347826087,97.08695652173913,71.04347826086956,62.69565217391305,70.3913043478261,71.6086956521739,,

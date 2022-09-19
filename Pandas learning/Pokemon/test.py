@@ -10,14 +10,11 @@ for type in data["Type 1"]:
 
 
 for type in possible_type:
-    dic = {}
     pokemons_with_type = data[((data["Type 1"] == type) | (data["Type 2"] == type)) & ~(data["Name"].str.contains("Mega"))].copy()
+    mean_row = pokemons_with_type[["Total","HP","Attack","Defense","Sp. Atk","Sp. Def","Speed"]].mean(axis=0,numeric_only=True)
+    pokemons_with_type = pd.concat([pokemons_with_type, mean_row.to_frame().T],ignore_index=True)
     print(pokemons_with_type)
-    for stat in pokemons_with_type.drop(["#"], axis=1).select_dtypes(include="number"):
-        dic[stat] = pokemons_with_type[stat].mean()
-    pokemons_with_type.loc["mean"] = pokemons_with_type.mean(numeric_only=True)
-    print(pokemons_with_type)
-#kurwa mać jebany pandas nie chce działać
+    pokemons_with_type.to_csv("Pokemons sorted by type/{0}.csv".format(type),index=False)
 
 
 

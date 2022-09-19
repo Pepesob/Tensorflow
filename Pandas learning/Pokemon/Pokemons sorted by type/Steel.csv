@@ -1,0 +1,45 @@
+#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+81.0,Magnemite,Electric,Steel,325.0,25.0,35.0,70.0,95.0,55.0,45.0,1.0,False
+82.0,Magneton,Electric,Steel,465.0,50.0,60.0,95.0,120.0,70.0,70.0,1.0,False
+205.0,Forretress,Bug,Steel,465.0,75.0,90.0,140.0,60.0,60.0,40.0,2.0,False
+208.0,Steelix,Steel,Ground,510.0,75.0,85.0,200.0,55.0,65.0,30.0,2.0,False
+212.0,Scizor,Bug,Steel,500.0,70.0,130.0,100.0,55.0,80.0,65.0,2.0,False
+227.0,Skarmory,Steel,Flying,465.0,65.0,80.0,140.0,40.0,70.0,70.0,2.0,False
+303.0,Mawile,Steel,Fairy,380.0,50.0,85.0,85.0,55.0,55.0,50.0,3.0,False
+304.0,Aron,Steel,Rock,330.0,50.0,70.0,100.0,40.0,40.0,30.0,3.0,False
+305.0,Lairon,Steel,Rock,430.0,60.0,90.0,140.0,50.0,50.0,40.0,3.0,False
+306.0,Aggron,Steel,Rock,530.0,70.0,110.0,180.0,60.0,60.0,50.0,3.0,False
+374.0,Beldum,Steel,Psychic,300.0,40.0,55.0,80.0,35.0,60.0,30.0,3.0,False
+375.0,Metang,Steel,Psychic,420.0,60.0,75.0,100.0,55.0,80.0,50.0,3.0,False
+376.0,Metagross,Steel,Psychic,600.0,80.0,135.0,130.0,95.0,90.0,70.0,3.0,False
+379.0,Registeel,Steel,,580.0,80.0,75.0,150.0,75.0,150.0,50.0,3.0,True
+385.0,Jirachi,Steel,Psychic,600.0,100.0,100.0,100.0,100.0,100.0,100.0,3.0,True
+395.0,Empoleon,Water,Steel,530.0,84.0,86.0,88.0,111.0,101.0,60.0,4.0,False
+410.0,Shieldon,Rock,Steel,350.0,30.0,42.0,118.0,42.0,88.0,30.0,4.0,False
+411.0,Bastiodon,Rock,Steel,495.0,60.0,52.0,168.0,47.0,138.0,30.0,4.0,False
+413.0,WormadamTrash Cloak,Bug,Steel,424.0,60.0,69.0,95.0,69.0,95.0,36.0,4.0,False
+436.0,Bronzor,Steel,Psychic,300.0,57.0,24.0,86.0,24.0,86.0,23.0,4.0,False
+437.0,Bronzong,Steel,Psychic,500.0,67.0,89.0,116.0,79.0,116.0,33.0,4.0,False
+448.0,Lucario,Fighting,Steel,525.0,70.0,110.0,70.0,115.0,70.0,90.0,4.0,False
+462.0,Magnezone,Electric,Steel,535.0,70.0,70.0,115.0,130.0,90.0,60.0,4.0,False
+476.0,Probopass,Rock,Steel,525.0,60.0,55.0,145.0,75.0,150.0,40.0,4.0,False
+483.0,Dialga,Steel,Dragon,680.0,100.0,120.0,120.0,150.0,100.0,90.0,4.0,True
+485.0,Heatran,Fire,Steel,600.0,91.0,90.0,106.0,130.0,106.0,77.0,4.0,True
+530.0,Excadrill,Ground,Steel,508.0,110.0,135.0,60.0,50.0,65.0,88.0,5.0,False
+589.0,Escavalier,Bug,Steel,495.0,70.0,135.0,105.0,60.0,105.0,20.0,5.0,False
+597.0,Ferroseed,Grass,Steel,305.0,44.0,50.0,91.0,24.0,86.0,10.0,5.0,False
+598.0,Ferrothorn,Grass,Steel,489.0,74.0,94.0,131.0,54.0,116.0,20.0,5.0,False
+599.0,Klink,Steel,,300.0,40.0,55.0,70.0,45.0,60.0,30.0,5.0,False
+600.0,Klang,Steel,,440.0,60.0,80.0,95.0,70.0,85.0,50.0,5.0,False
+601.0,Klinklang,Steel,,520.0,60.0,100.0,115.0,70.0,85.0,90.0,5.0,False
+624.0,Pawniard,Dark,Steel,340.0,45.0,85.0,70.0,40.0,40.0,60.0,5.0,False
+625.0,Bisharp,Dark,Steel,490.0,65.0,125.0,100.0,60.0,70.0,70.0,5.0,False
+632.0,Durant,Bug,Steel,484.0,58.0,109.0,112.0,48.0,48.0,109.0,5.0,False
+638.0,Cobalion,Steel,Fighting,580.0,91.0,90.0,129.0,90.0,72.0,108.0,5.0,True
+649.0,Genesect,Bug,Steel,600.0,71.0,120.0,95.0,120.0,95.0,99.0,5.0,False
+679.0,Honedge,Steel,Ghost,325.0,45.0,80.0,100.0,35.0,37.0,28.0,6.0,False
+680.0,Doublade,Steel,Ghost,448.0,59.0,110.0,150.0,45.0,49.0,35.0,6.0,False
+681.0,AegislashBlade Forme,Steel,Ghost,520.0,60.0,150.0,50.0,150.0,50.0,60.0,6.0,False
+681.0,AegislashShield Forme,Steel,Ghost,520.0,60.0,50.0,150.0,50.0,150.0,60.0,6.0,False
+707.0,Klefki,Steel,Fairy,470.0,57.0,80.0,91.0,80.0,87.0,75.0,6.0,False
+,,,,469.72093023255815,64.37209302325581,86.74418604651163,110.48837209302326,71.0,81.97674418604652,55.13953488372093,,

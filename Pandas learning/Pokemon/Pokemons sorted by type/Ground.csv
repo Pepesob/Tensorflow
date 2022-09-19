@@ -1,0 +1,65 @@
+#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+27.0,Sandshrew,Ground,,300.0,50.0,75.0,85.0,20.0,30.0,40.0,1.0,False
+28.0,Sandslash,Ground,,450.0,75.0,100.0,110.0,45.0,55.0,65.0,1.0,False
+31.0,Nidoqueen,Poison,Ground,505.0,90.0,92.0,87.0,75.0,85.0,76.0,1.0,False
+34.0,Nidoking,Poison,Ground,505.0,81.0,102.0,77.0,85.0,75.0,85.0,1.0,False
+50.0,Diglett,Ground,,265.0,10.0,55.0,25.0,35.0,45.0,95.0,1.0,False
+51.0,Dugtrio,Ground,,405.0,35.0,80.0,50.0,50.0,70.0,120.0,1.0,False
+74.0,Geodude,Rock,Ground,300.0,40.0,80.0,100.0,30.0,30.0,20.0,1.0,False
+75.0,Graveler,Rock,Ground,390.0,55.0,95.0,115.0,45.0,45.0,35.0,1.0,False
+76.0,Golem,Rock,Ground,495.0,80.0,120.0,130.0,55.0,65.0,45.0,1.0,False
+95.0,Onix,Rock,Ground,385.0,35.0,45.0,160.0,30.0,45.0,70.0,1.0,False
+104.0,Cubone,Ground,,320.0,50.0,50.0,95.0,40.0,50.0,35.0,1.0,False
+105.0,Marowak,Ground,,425.0,60.0,80.0,110.0,50.0,80.0,45.0,1.0,False
+111.0,Rhyhorn,Ground,Rock,345.0,80.0,85.0,95.0,30.0,30.0,25.0,1.0,False
+112.0,Rhydon,Ground,Rock,485.0,105.0,130.0,120.0,45.0,45.0,40.0,1.0,False
+194.0,Wooper,Water,Ground,210.0,55.0,45.0,45.0,25.0,25.0,15.0,2.0,False
+195.0,Quagsire,Water,Ground,430.0,95.0,85.0,85.0,65.0,65.0,35.0,2.0,False
+207.0,Gligar,Ground,Flying,430.0,65.0,75.0,105.0,35.0,65.0,85.0,2.0,False
+208.0,Steelix,Steel,Ground,510.0,75.0,85.0,200.0,55.0,65.0,30.0,2.0,False
+220.0,Swinub,Ice,Ground,250.0,50.0,50.0,40.0,30.0,30.0,50.0,2.0,False
+221.0,Piloswine,Ice,Ground,450.0,100.0,100.0,80.0,60.0,60.0,50.0,2.0,False
+231.0,Phanpy,Ground,,330.0,90.0,60.0,60.0,40.0,40.0,40.0,2.0,False
+232.0,Donphan,Ground,,500.0,90.0,120.0,120.0,60.0,60.0,50.0,2.0,False
+246.0,Larvitar,Rock,Ground,300.0,50.0,64.0,50.0,45.0,50.0,41.0,2.0,False
+247.0,Pupitar,Rock,Ground,410.0,70.0,84.0,70.0,65.0,70.0,51.0,2.0,False
+259.0,Marshtomp,Water,Ground,405.0,70.0,85.0,70.0,60.0,70.0,50.0,3.0,False
+260.0,Swampert,Water,Ground,535.0,100.0,110.0,90.0,85.0,90.0,60.0,3.0,False
+290.0,Nincada,Bug,Ground,266.0,31.0,45.0,90.0,30.0,30.0,40.0,3.0,False
+322.0,Numel,Fire,Ground,305.0,60.0,60.0,40.0,65.0,45.0,35.0,3.0,False
+323.0,Camerupt,Fire,Ground,460.0,70.0,100.0,70.0,105.0,75.0,40.0,3.0,False
+328.0,Trapinch,Ground,,290.0,45.0,100.0,45.0,45.0,45.0,10.0,3.0,False
+329.0,Vibrava,Ground,Dragon,340.0,50.0,70.0,50.0,50.0,50.0,70.0,3.0,False
+330.0,Flygon,Ground,Dragon,520.0,80.0,100.0,80.0,80.0,80.0,100.0,3.0,False
+339.0,Barboach,Water,Ground,288.0,50.0,48.0,43.0,46.0,41.0,60.0,3.0,False
+340.0,Whiscash,Water,Ground,468.0,110.0,78.0,73.0,76.0,71.0,60.0,3.0,False
+343.0,Baltoy,Ground,Psychic,300.0,40.0,40.0,55.0,40.0,70.0,55.0,3.0,False
+344.0,Claydol,Ground,Psychic,500.0,60.0,70.0,105.0,70.0,120.0,75.0,3.0,False
+383.0,Groudon,Ground,,670.0,100.0,150.0,140.0,100.0,90.0,90.0,3.0,True
+383.0,GroudonPrimal Groudon,Ground,Fire,770.0,100.0,180.0,160.0,150.0,90.0,90.0,3.0,True
+389.0,Torterra,Grass,Ground,525.0,95.0,109.0,105.0,75.0,85.0,56.0,4.0,False
+413.0,WormadamSandy Cloak,Bug,Ground,424.0,60.0,79.0,105.0,59.0,85.0,36.0,4.0,False
+423.0,Gastrodon,Water,Ground,475.0,111.0,83.0,68.0,92.0,82.0,39.0,4.0,False
+443.0,Gible,Dragon,Ground,300.0,58.0,70.0,45.0,40.0,45.0,42.0,4.0,False
+444.0,Gabite,Dragon,Ground,410.0,68.0,90.0,65.0,50.0,55.0,82.0,4.0,False
+445.0,Garchomp,Dragon,Ground,600.0,108.0,130.0,95.0,80.0,85.0,102.0,4.0,False
+449.0,Hippopotas,Ground,,330.0,68.0,72.0,78.0,38.0,42.0,32.0,4.0,False
+450.0,Hippowdon,Ground,,525.0,108.0,112.0,118.0,68.0,72.0,47.0,4.0,False
+464.0,Rhyperior,Ground,Rock,535.0,115.0,140.0,130.0,55.0,55.0,40.0,4.0,False
+472.0,Gliscor,Ground,Flying,510.0,75.0,95.0,125.0,45.0,75.0,95.0,4.0,False
+473.0,Mamoswine,Ice,Ground,530.0,110.0,130.0,80.0,70.0,60.0,80.0,4.0,False
+529.0,Drilbur,Ground,,328.0,60.0,85.0,40.0,30.0,45.0,68.0,5.0,False
+530.0,Excadrill,Ground,Steel,508.0,110.0,135.0,60.0,50.0,65.0,88.0,5.0,False
+536.0,Palpitoad,Water,Ground,384.0,75.0,65.0,55.0,65.0,55.0,69.0,5.0,False
+537.0,Seismitoad,Water,Ground,509.0,105.0,95.0,75.0,85.0,75.0,74.0,5.0,False
+551.0,Sandile,Ground,Dark,292.0,50.0,72.0,35.0,35.0,35.0,65.0,5.0,False
+552.0,Krokorok,Ground,Dark,351.0,60.0,82.0,45.0,45.0,45.0,74.0,5.0,False
+553.0,Krookodile,Ground,Dark,519.0,95.0,117.0,80.0,65.0,70.0,92.0,5.0,False
+618.0,Stunfisk,Ground,Electric,471.0,109.0,66.0,84.0,81.0,99.0,32.0,5.0,False
+622.0,Golett,Ground,Ghost,303.0,59.0,74.0,50.0,35.0,50.0,35.0,5.0,False
+623.0,Golurk,Ground,Ghost,483.0,89.0,124.0,80.0,55.0,80.0,55.0,5.0,False
+645.0,LandorusIncarnate Forme,Ground,Flying,600.0,89.0,125.0,90.0,115.0,80.0,101.0,5.0,True
+645.0,LandorusTherian Forme,Ground,Flying,600.0,89.0,145.0,90.0,105.0,80.0,91.0,5.0,True
+660.0,Diggersby,Normal,Ground,423.0,85.0,56.0,77.0,50.0,77.0,78.0,6.0,False
+718.0,Zygarde50% Forme,Dragon,Ground,600.0,108.0,100.0,121.0,81.0,95.0,95.0,6.0,True
+,,,,429.3174603174603,74.77777777777777,89.58730158730158,84.46031746031746,58.507936507936506,62.523809523809526,59.46031746031746,,

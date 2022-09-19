@@ -1,0 +1,82 @@
+#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+63.0,Abra,Psychic,,310.0,25.0,20.0,15.0,105.0,55.0,90.0,1.0,False
+64.0,Kadabra,Psychic,,400.0,40.0,35.0,30.0,120.0,70.0,105.0,1.0,False
+65.0,Alakazam,Psychic,,500.0,55.0,50.0,45.0,135.0,95.0,120.0,1.0,False
+79.0,Slowpoke,Water,Psychic,315.0,90.0,65.0,65.0,40.0,40.0,15.0,1.0,False
+80.0,Slowbro,Water,Psychic,490.0,95.0,75.0,110.0,100.0,80.0,30.0,1.0,False
+96.0,Drowzee,Psychic,,328.0,60.0,48.0,45.0,43.0,90.0,42.0,1.0,False
+97.0,Hypno,Psychic,,483.0,85.0,73.0,70.0,73.0,115.0,67.0,1.0,False
+102.0,Exeggcute,Grass,Psychic,325.0,60.0,40.0,80.0,60.0,45.0,40.0,1.0,False
+103.0,Exeggutor,Grass,Psychic,520.0,95.0,95.0,85.0,125.0,65.0,55.0,1.0,False
+121.0,Starmie,Water,Psychic,520.0,60.0,75.0,85.0,100.0,85.0,115.0,1.0,False
+122.0,Mr. Mime,Psychic,Fairy,460.0,40.0,45.0,65.0,100.0,120.0,90.0,1.0,False
+124.0,Jynx,Ice,Psychic,455.0,65.0,50.0,35.0,115.0,95.0,95.0,1.0,False
+150.0,Mewtwo,Psychic,,680.0,106.0,110.0,90.0,154.0,90.0,130.0,1.0,True
+151.0,Mew,Psychic,,600.0,100.0,100.0,100.0,100.0,100.0,100.0,1.0,False
+177.0,Natu,Psychic,Flying,320.0,40.0,50.0,45.0,70.0,45.0,70.0,2.0,False
+178.0,Xatu,Psychic,Flying,470.0,65.0,75.0,70.0,95.0,70.0,95.0,2.0,False
+196.0,Espeon,Psychic,,525.0,65.0,65.0,60.0,130.0,95.0,110.0,2.0,False
+199.0,Slowking,Water,Psychic,490.0,95.0,75.0,80.0,100.0,110.0,30.0,2.0,False
+201.0,Unown,Psychic,,336.0,48.0,72.0,48.0,72.0,48.0,48.0,2.0,False
+202.0,Wobbuffet,Psychic,,405.0,190.0,33.0,58.0,33.0,58.0,33.0,2.0,False
+203.0,Girafarig,Normal,Psychic,455.0,70.0,80.0,65.0,90.0,65.0,85.0,2.0,False
+238.0,Smoochum,Ice,Psychic,305.0,45.0,30.0,15.0,85.0,65.0,65.0,2.0,False
+249.0,Lugia,Psychic,Flying,680.0,106.0,90.0,130.0,90.0,154.0,110.0,2.0,True
+251.0,Celebi,Psychic,Grass,600.0,100.0,100.0,100.0,100.0,100.0,100.0,2.0,False
+280.0,Ralts,Psychic,Fairy,198.0,28.0,25.0,25.0,45.0,35.0,40.0,3.0,False
+281.0,Kirlia,Psychic,Fairy,278.0,38.0,35.0,35.0,65.0,55.0,50.0,3.0,False
+282.0,Gardevoir,Psychic,Fairy,518.0,68.0,65.0,65.0,125.0,115.0,80.0,3.0,False
+307.0,Meditite,Fighting,Psychic,280.0,30.0,40.0,55.0,40.0,55.0,60.0,3.0,False
+308.0,Medicham,Fighting,Psychic,410.0,60.0,60.0,75.0,60.0,75.0,80.0,3.0,False
+325.0,Spoink,Psychic,,330.0,60.0,25.0,35.0,70.0,80.0,60.0,3.0,False
+326.0,Grumpig,Psychic,,470.0,80.0,45.0,65.0,90.0,110.0,80.0,3.0,False
+337.0,Lunatone,Rock,Psychic,440.0,70.0,55.0,65.0,95.0,85.0,70.0,3.0,False
+338.0,Solrock,Rock,Psychic,440.0,70.0,95.0,85.0,55.0,65.0,70.0,3.0,False
+343.0,Baltoy,Ground,Psychic,300.0,40.0,40.0,55.0,40.0,70.0,55.0,3.0,False
+344.0,Claydol,Ground,Psychic,500.0,60.0,70.0,105.0,70.0,120.0,75.0,3.0,False
+358.0,Chimecho,Psychic,,425.0,65.0,50.0,70.0,95.0,80.0,65.0,3.0,False
+360.0,Wynaut,Psychic,,260.0,95.0,23.0,48.0,23.0,48.0,23.0,3.0,False
+374.0,Beldum,Steel,Psychic,300.0,40.0,55.0,80.0,35.0,60.0,30.0,3.0,False
+375.0,Metang,Steel,Psychic,420.0,60.0,75.0,100.0,55.0,80.0,50.0,3.0,False
+376.0,Metagross,Steel,Psychic,600.0,80.0,135.0,130.0,95.0,90.0,70.0,3.0,False
+380.0,Latias,Dragon,Psychic,600.0,80.0,80.0,90.0,110.0,130.0,110.0,3.0,True
+381.0,Latios,Dragon,Psychic,600.0,80.0,90.0,80.0,130.0,110.0,110.0,3.0,True
+385.0,Jirachi,Steel,Psychic,600.0,100.0,100.0,100.0,100.0,100.0,100.0,3.0,True
+386.0,DeoxysNormal Forme,Psychic,,600.0,50.0,150.0,50.0,150.0,50.0,150.0,3.0,True
+386.0,DeoxysAttack Forme,Psychic,,600.0,50.0,180.0,20.0,180.0,20.0,150.0,3.0,True
+386.0,DeoxysDefense Forme,Psychic,,600.0,50.0,70.0,160.0,70.0,160.0,90.0,3.0,True
+386.0,DeoxysSpeed Forme,Psychic,,600.0,50.0,95.0,90.0,95.0,90.0,180.0,3.0,True
+433.0,Chingling,Psychic,,285.0,45.0,30.0,50.0,65.0,50.0,45.0,4.0,False
+436.0,Bronzor,Steel,Psychic,300.0,57.0,24.0,86.0,24.0,86.0,23.0,4.0,False
+437.0,Bronzong,Steel,Psychic,500.0,67.0,89.0,116.0,79.0,116.0,33.0,4.0,False
+439.0,Mime Jr.,Psychic,Fairy,310.0,20.0,25.0,45.0,70.0,90.0,60.0,4.0,False
+475.0,Gallade,Psychic,Fighting,518.0,68.0,125.0,65.0,65.0,115.0,80.0,4.0,False
+480.0,Uxie,Psychic,,580.0,75.0,75.0,130.0,75.0,130.0,95.0,4.0,True
+481.0,Mesprit,Psychic,,580.0,80.0,105.0,105.0,105.0,105.0,80.0,4.0,True
+482.0,Azelf,Psychic,,580.0,75.0,125.0,70.0,125.0,70.0,115.0,4.0,True
+488.0,Cresselia,Psychic,,600.0,120.0,70.0,120.0,75.0,130.0,85.0,4.0,False
+494.0,Victini,Psychic,Fire,600.0,100.0,100.0,100.0,100.0,100.0,100.0,5.0,True
+517.0,Munna,Psychic,,292.0,76.0,25.0,45.0,67.0,55.0,24.0,5.0,False
+518.0,Musharna,Psychic,,487.0,116.0,55.0,85.0,107.0,95.0,29.0,5.0,False
+527.0,Woobat,Psychic,Flying,313.0,55.0,45.0,43.0,55.0,43.0,72.0,5.0,False
+528.0,Swoobat,Psychic,Flying,425.0,67.0,57.0,55.0,77.0,55.0,114.0,5.0,False
+555.0,DarmanitanZen Mode,Fire,Psychic,540.0,105.0,30.0,105.0,140.0,105.0,55.0,5.0,False
+561.0,Sigilyph,Psychic,Flying,490.0,72.0,58.0,80.0,103.0,80.0,97.0,5.0,False
+574.0,Gothita,Psychic,,290.0,45.0,30.0,50.0,55.0,65.0,45.0,5.0,False
+575.0,Gothorita,Psychic,,390.0,60.0,45.0,70.0,75.0,85.0,55.0,5.0,False
+576.0,Gothitelle,Psychic,,490.0,70.0,55.0,95.0,95.0,110.0,65.0,5.0,False
+577.0,Solosis,Psychic,,290.0,45.0,30.0,40.0,105.0,50.0,20.0,5.0,False
+578.0,Duosion,Psychic,,370.0,65.0,40.0,50.0,125.0,60.0,30.0,5.0,False
+579.0,Reuniclus,Psychic,,490.0,110.0,65.0,75.0,125.0,85.0,30.0,5.0,False
+605.0,Elgyem,Psychic,,335.0,55.0,55.0,55.0,85.0,55.0,30.0,5.0,False
+606.0,Beheeyem,Psychic,,485.0,75.0,75.0,75.0,125.0,95.0,40.0,5.0,False
+648.0,MeloettaAria Forme,Normal,Psychic,600.0,100.0,77.0,77.0,128.0,128.0,90.0,5.0,False
+655.0,Delphox,Fire,Psychic,534.0,75.0,69.0,72.0,114.0,100.0,104.0,6.0,False
+677.0,Espurr,Psychic,,355.0,62.0,48.0,54.0,63.0,60.0,68.0,6.0,False
+678.0,MeowsticMale,Psychic,,466.0,74.0,48.0,76.0,83.0,81.0,104.0,6.0,False
+678.0,MeowsticFemale,Psychic,,466.0,74.0,48.0,76.0,83.0,81.0,104.0,6.0,False
+686.0,Inkay,Dark,Psychic,288.0,53.0,54.0,53.0,37.0,46.0,45.0,6.0,False
+687.0,Malamar,Dark,Psychic,482.0,86.0,92.0,88.0,68.0,75.0,73.0,6.0,False
+720.0,HoopaHoopa Confined,Psychic,Ghost,600.0,80.0,110.0,60.0,150.0,130.0,70.0,6.0,True
+720.0,HoopaHoopa Unbound,Psychic,Dark,680.0,80.0,160.0,60.0,170.0,130.0,80.0,6.0,True
+,,,,454.4,70.1375,66.85,71.25,89.325,83.7375,73.1,,
