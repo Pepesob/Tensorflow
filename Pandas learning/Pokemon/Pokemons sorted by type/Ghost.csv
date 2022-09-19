@@ -1,45 +1,45 @@
 #,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
-92.0,Gastly,Ghost,Poison,310.0,30.0,35.0,30.0,100.0,35.0,80.0,1.0,False
-93.0,Haunter,Ghost,Poison,405.0,45.0,50.0,45.0,115.0,55.0,95.0,1.0,False
-94.0,Gengar,Ghost,Poison,500.0,60.0,65.0,60.0,130.0,75.0,110.0,1.0,False
-200.0,Misdreavus,Ghost,,435.0,60.0,60.0,60.0,85.0,85.0,85.0,2.0,False
-292.0,Shedinja,Bug,Ghost,236.0,1.0,90.0,45.0,30.0,30.0,40.0,3.0,False
-302.0,Sableye,Dark,Ghost,380.0,50.0,75.0,75.0,65.0,65.0,50.0,3.0,False
-353.0,Shuppet,Ghost,,295.0,44.0,75.0,35.0,63.0,33.0,45.0,3.0,False
-354.0,Banette,Ghost,,455.0,64.0,115.0,65.0,83.0,63.0,65.0,3.0,False
-355.0,Duskull,Ghost,,295.0,20.0,40.0,90.0,30.0,90.0,25.0,3.0,False
-356.0,Dusclops,Ghost,,455.0,40.0,70.0,130.0,60.0,130.0,25.0,3.0,False
-425.0,Drifloon,Ghost,Flying,348.0,90.0,50.0,34.0,60.0,44.0,70.0,4.0,False
-426.0,Drifblim,Ghost,Flying,498.0,150.0,80.0,44.0,90.0,54.0,80.0,4.0,False
-429.0,Mismagius,Ghost,,495.0,60.0,60.0,60.0,105.0,105.0,105.0,4.0,False
-442.0,Spiritomb,Ghost,Dark,485.0,50.0,92.0,108.0,92.0,108.0,35.0,4.0,False
-477.0,Dusknoir,Ghost,,525.0,45.0,100.0,135.0,65.0,135.0,45.0,4.0,False
-478.0,Froslass,Ice,Ghost,480.0,70.0,80.0,70.0,80.0,70.0,110.0,4.0,False
-479.0,Rotom,Electric,Ghost,440.0,50.0,50.0,77.0,95.0,77.0,91.0,4.0,False
-487.0,GiratinaAltered Forme,Ghost,Dragon,680.0,150.0,100.0,120.0,100.0,120.0,90.0,4.0,True
-487.0,GiratinaOrigin Forme,Ghost,Dragon,680.0,150.0,120.0,100.0,120.0,100.0,90.0,4.0,True
-562.0,Yamask,Ghost,,303.0,38.0,30.0,85.0,55.0,65.0,30.0,5.0,False
-563.0,Cofagrigus,Ghost,,483.0,58.0,50.0,145.0,95.0,105.0,30.0,5.0,False
-592.0,Frillish,Water,Ghost,335.0,55.0,40.0,50.0,65.0,85.0,40.0,5.0,False
-593.0,Jellicent,Water,Ghost,480.0,100.0,60.0,70.0,85.0,105.0,60.0,5.0,False
-607.0,Litwick,Ghost,Fire,275.0,50.0,30.0,55.0,65.0,55.0,20.0,5.0,False
-608.0,Lampent,Ghost,Fire,370.0,60.0,40.0,60.0,95.0,60.0,55.0,5.0,False
-609.0,Chandelure,Ghost,Fire,520.0,60.0,55.0,90.0,145.0,90.0,80.0,5.0,False
-622.0,Golett,Ground,Ghost,303.0,59.0,74.0,50.0,35.0,50.0,35.0,5.0,False
-623.0,Golurk,Ground,Ghost,483.0,89.0,124.0,80.0,55.0,80.0,55.0,5.0,False
-679.0,Honedge,Steel,Ghost,325.0,45.0,80.0,100.0,35.0,37.0,28.0,6.0,False
-680.0,Doublade,Steel,Ghost,448.0,59.0,110.0,150.0,45.0,49.0,35.0,6.0,False
-681.0,AegislashBlade Forme,Steel,Ghost,520.0,60.0,150.0,50.0,150.0,50.0,60.0,6.0,False
-681.0,AegislashShield Forme,Steel,Ghost,520.0,60.0,50.0,150.0,50.0,150.0,60.0,6.0,False
-708.0,Phantump,Ghost,Grass,309.0,43.0,70.0,48.0,50.0,60.0,38.0,6.0,False
-709.0,Trevenant,Ghost,Grass,474.0,85.0,110.0,76.0,65.0,82.0,56.0,6.0,False
-710.0,PumpkabooAverage Size,Ghost,Grass,335.0,49.0,66.0,70.0,44.0,55.0,51.0,6.0,False
-710.0,PumpkabooSmall Size,Ghost,Grass,335.0,44.0,66.0,70.0,44.0,55.0,56.0,6.0,False
-710.0,PumpkabooLarge Size,Ghost,Grass,335.0,54.0,66.0,70.0,44.0,55.0,46.0,6.0,False
-710.0,PumpkabooSuper Size,Ghost,Grass,335.0,59.0,66.0,70.0,44.0,55.0,41.0,6.0,False
-711.0,GourgeistAverage Size,Ghost,Grass,494.0,65.0,90.0,122.0,58.0,75.0,84.0,6.0,False
-711.0,GourgeistSmall Size,Ghost,Grass,494.0,55.0,85.0,122.0,58.0,75.0,99.0,6.0,False
-711.0,GourgeistLarge Size,Ghost,Grass,494.0,75.0,95.0,122.0,58.0,75.0,69.0,6.0,False
-711.0,GourgeistSuper Size,Ghost,Grass,494.0,85.0,100.0,122.0,58.0,75.0,54.0,6.0,False
-720.0,HoopaHoopa Confined,Psychic,Ghost,600.0,80.0,110.0,60.0,150.0,130.0,70.0,6.0,True
-,,,,429.3255813953488,63.16279069767442,74.97674418604652,80.69767441860465,74.79069767441861,75.51162790697674,60.18604651162791,,
+92,Gastly,Ghost,Poison,310,30,35,30,100,35,80,1,False
+93,Haunter,Ghost,Poison,405,45,50,45,115,55,95,1,False
+94,Gengar,Ghost,Poison,500,60,65,60,130,75,110,1,False
+200,Misdreavus,Ghost,,435,60,60,60,85,85,85,2,False
+292,Shedinja,Bug,Ghost,236,1,90,45,30,30,40,3,False
+302,Sableye,Dark,Ghost,380,50,75,75,65,65,50,3,False
+353,Shuppet,Ghost,,295,44,75,35,63,33,45,3,False
+354,Banette,Ghost,,455,64,115,65,83,63,65,3,False
+355,Duskull,Ghost,,295,20,40,90,30,90,25,3,False
+356,Dusclops,Ghost,,455,40,70,130,60,130,25,3,False
+425,Drifloon,Ghost,Flying,348,90,50,34,60,44,70,4,False
+426,Drifblim,Ghost,Flying,498,150,80,44,90,54,80,4,False
+429,Mismagius,Ghost,,495,60,60,60,105,105,105,4,False
+442,Spiritomb,Ghost,Dark,485,50,92,108,92,108,35,4,False
+477,Dusknoir,Ghost,,525,45,100,135,65,135,45,4,False
+478,Froslass,Ice,Ghost,480,70,80,70,80,70,110,4,False
+479,Rotom,Electric,Ghost,440,50,50,77,95,77,91,4,False
+487,GiratinaAltered Forme,Ghost,Dragon,680,150,100,120,100,120,90,4,True
+487,GiratinaOrigin Forme,Ghost,Dragon,680,150,120,100,120,100,90,4,True
+562,Yamask,Ghost,,303,38,30,85,55,65,30,5,False
+563,Cofagrigus,Ghost,,483,58,50,145,95,105,30,5,False
+592,Frillish,Water,Ghost,335,55,40,50,65,85,40,5,False
+593,Jellicent,Water,Ghost,480,100,60,70,85,105,60,5,False
+607,Litwick,Ghost,Fire,275,50,30,55,65,55,20,5,False
+608,Lampent,Ghost,Fire,370,60,40,60,95,60,55,5,False
+609,Chandelure,Ghost,Fire,520,60,55,90,145,90,80,5,False
+622,Golett,Ground,Ghost,303,59,74,50,35,50,35,5,False
+623,Golurk,Ground,Ghost,483,89,124,80,55,80,55,5,False
+679,Honedge,Steel,Ghost,325,45,80,100,35,37,28,6,False
+680,Doublade,Steel,Ghost,448,59,110,150,45,49,35,6,False
+681,AegislashBlade Forme,Steel,Ghost,520,60,150,50,150,50,60,6,False
+681,AegislashShield Forme,Steel,Ghost,520,60,50,150,50,150,60,6,False
+708,Phantump,Ghost,Grass,309,43,70,48,50,60,38,6,False
+709,Trevenant,Ghost,Grass,474,85,110,76,65,82,56,6,False
+710,PumpkabooAverage Size,Ghost,Grass,335,49,66,70,44,55,51,6,False
+710,PumpkabooSmall Size,Ghost,Grass,335,44,66,70,44,55,56,6,False
+710,PumpkabooLarge Size,Ghost,Grass,335,54,66,70,44,55,46,6,False
+710,PumpkabooSuper Size,Ghost,Grass,335,59,66,70,44,55,41,6,False
+711,GourgeistAverage Size,Ghost,Grass,494,65,90,122,58,75,84,6,False
+711,GourgeistSmall Size,Ghost,Grass,494,55,85,122,58,75,99,6,False
+711,GourgeistLarge Size,Ghost,Grass,494,75,95,122,58,75,69,6,False
+711,GourgeistSuper Size,Ghost,Grass,494,85,100,122,58,75,54,6,False
+720,HoopaHoopa Confined,Psychic,Ghost,600,80,110,60,150,130,70,6,True
+Mean,,,,429.33,63.16,74.98,80.7,74.79,75.51,60.19,,

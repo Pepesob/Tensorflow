@@ -1,43 +1,43 @@
 #,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
-147.0,Dratini,Dragon,,300.0,41.0,64.0,45.0,50.0,50.0,50.0,1.0,False
-148.0,Dragonair,Dragon,,420.0,61.0,84.0,65.0,70.0,70.0,70.0,1.0,False
-149.0,Dragonite,Dragon,Flying,600.0,91.0,134.0,95.0,100.0,100.0,80.0,1.0,False
-230.0,Kingdra,Water,Dragon,540.0,75.0,95.0,95.0,95.0,95.0,85.0,2.0,False
-329.0,Vibrava,Ground,Dragon,340.0,50.0,70.0,50.0,50.0,50.0,70.0,3.0,False
-330.0,Flygon,Ground,Dragon,520.0,80.0,100.0,80.0,80.0,80.0,100.0,3.0,False
-334.0,Altaria,Dragon,Flying,490.0,75.0,70.0,90.0,70.0,105.0,80.0,3.0,False
-371.0,Bagon,Dragon,,300.0,45.0,75.0,60.0,40.0,30.0,50.0,3.0,False
-372.0,Shelgon,Dragon,,420.0,65.0,95.0,100.0,60.0,50.0,50.0,3.0,False
-373.0,Salamence,Dragon,Flying,600.0,95.0,135.0,80.0,110.0,80.0,100.0,3.0,False
-380.0,Latias,Dragon,Psychic,600.0,80.0,80.0,90.0,110.0,130.0,110.0,3.0,True
-381.0,Latios,Dragon,Psychic,600.0,80.0,90.0,80.0,130.0,110.0,110.0,3.0,True
-384.0,Rayquaza,Dragon,Flying,680.0,105.0,150.0,90.0,150.0,90.0,95.0,3.0,True
-443.0,Gible,Dragon,Ground,300.0,58.0,70.0,45.0,40.0,45.0,42.0,4.0,False
-444.0,Gabite,Dragon,Ground,410.0,68.0,90.0,65.0,50.0,55.0,82.0,4.0,False
-445.0,Garchomp,Dragon,Ground,600.0,108.0,130.0,95.0,80.0,85.0,102.0,4.0,False
-483.0,Dialga,Steel,Dragon,680.0,100.0,120.0,120.0,150.0,100.0,90.0,4.0,True
-484.0,Palkia,Water,Dragon,680.0,90.0,120.0,100.0,150.0,120.0,100.0,4.0,True
-487.0,GiratinaAltered Forme,Ghost,Dragon,680.0,150.0,100.0,120.0,100.0,120.0,90.0,4.0,True
-487.0,GiratinaOrigin Forme,Ghost,Dragon,680.0,150.0,120.0,100.0,120.0,100.0,90.0,4.0,True
-610.0,Axew,Dragon,,320.0,46.0,87.0,60.0,30.0,40.0,57.0,5.0,False
-611.0,Fraxure,Dragon,,410.0,66.0,117.0,70.0,40.0,50.0,67.0,5.0,False
-612.0,Haxorus,Dragon,,540.0,76.0,147.0,90.0,60.0,70.0,97.0,5.0,False
-621.0,Druddigon,Dragon,,485.0,77.0,120.0,90.0,60.0,90.0,48.0,5.0,False
-633.0,Deino,Dark,Dragon,300.0,52.0,65.0,50.0,45.0,50.0,38.0,5.0,False
-634.0,Zweilous,Dark,Dragon,420.0,72.0,85.0,70.0,65.0,70.0,58.0,5.0,False
-635.0,Hydreigon,Dark,Dragon,600.0,92.0,105.0,90.0,125.0,90.0,98.0,5.0,False
-643.0,Reshiram,Dragon,Fire,680.0,100.0,120.0,100.0,150.0,120.0,90.0,5.0,True
-644.0,Zekrom,Dragon,Electric,680.0,100.0,150.0,120.0,120.0,100.0,90.0,5.0,True
-646.0,Kyurem,Dragon,Ice,660.0,125.0,130.0,90.0,130.0,90.0,95.0,5.0,True
-646.0,KyuremBlack Kyurem,Dragon,Ice,700.0,125.0,170.0,100.0,120.0,90.0,95.0,5.0,True
-646.0,KyuremWhite Kyurem,Dragon,Ice,700.0,125.0,120.0,90.0,170.0,100.0,95.0,5.0,True
-691.0,Dragalge,Poison,Dragon,494.0,65.0,75.0,90.0,97.0,123.0,44.0,6.0,False
-696.0,Tyrunt,Rock,Dragon,362.0,58.0,89.0,77.0,45.0,45.0,48.0,6.0,False
-697.0,Tyrantrum,Rock,Dragon,521.0,82.0,121.0,119.0,69.0,59.0,71.0,6.0,False
-704.0,Goomy,Dragon,,300.0,45.0,50.0,35.0,55.0,75.0,40.0,6.0,False
-705.0,Sliggoo,Dragon,,452.0,68.0,75.0,53.0,83.0,113.0,60.0,6.0,False
-706.0,Goodra,Dragon,,600.0,90.0,100.0,70.0,110.0,150.0,80.0,6.0,False
-714.0,Noibat,Flying,Dragon,245.0,40.0,30.0,35.0,45.0,40.0,55.0,6.0,False
-715.0,Noivern,Flying,Dragon,535.0,85.0,70.0,80.0,97.0,80.0,123.0,6.0,False
-718.0,Zygarde50% Forme,Dragon,Ground,600.0,108.0,100.0,121.0,81.0,95.0,95.0,6.0,True
-,,,,513.2682926829268,82.04878048780488,100.4390243902439,82.07317073170732,87.85365853658537,83.04878048780488,77.8048780487805,,
+147,Dratini,Dragon,,300,41,64,45,50,50,50,1,False
+148,Dragonair,Dragon,,420,61,84,65,70,70,70,1,False
+149,Dragonite,Dragon,Flying,600,91,134,95,100,100,80,1,False
+230,Kingdra,Water,Dragon,540,75,95,95,95,95,85,2,False
+329,Vibrava,Ground,Dragon,340,50,70,50,50,50,70,3,False
+330,Flygon,Ground,Dragon,520,80,100,80,80,80,100,3,False
+334,Altaria,Dragon,Flying,490,75,70,90,70,105,80,3,False
+371,Bagon,Dragon,,300,45,75,60,40,30,50,3,False
+372,Shelgon,Dragon,,420,65,95,100,60,50,50,3,False
+373,Salamence,Dragon,Flying,600,95,135,80,110,80,100,3,False
+380,Latias,Dragon,Psychic,600,80,80,90,110,130,110,3,True
+381,Latios,Dragon,Psychic,600,80,90,80,130,110,110,3,True
+384,Rayquaza,Dragon,Flying,680,105,150,90,150,90,95,3,True
+443,Gible,Dragon,Ground,300,58,70,45,40,45,42,4,False
+444,Gabite,Dragon,Ground,410,68,90,65,50,55,82,4,False
+445,Garchomp,Dragon,Ground,600,108,130,95,80,85,102,4,False
+483,Dialga,Steel,Dragon,680,100,120,120,150,100,90,4,True
+484,Palkia,Water,Dragon,680,90,120,100,150,120,100,4,True
+487,GiratinaAltered Forme,Ghost,Dragon,680,150,100,120,100,120,90,4,True
+487,GiratinaOrigin Forme,Ghost,Dragon,680,150,120,100,120,100,90,4,True
+610,Axew,Dragon,,320,46,87,60,30,40,57,5,False
+611,Fraxure,Dragon,,410,66,117,70,40,50,67,5,False
+612,Haxorus,Dragon,,540,76,147,90,60,70,97,5,False
+621,Druddigon,Dragon,,485,77,120,90,60,90,48,5,False
+633,Deino,Dark,Dragon,300,52,65,50,45,50,38,5,False
+634,Zweilous,Dark,Dragon,420,72,85,70,65,70,58,5,False
+635,Hydreigon,Dark,Dragon,600,92,105,90,125,90,98,5,False
+643,Reshiram,Dragon,Fire,680,100,120,100,150,120,90,5,True
+644,Zekrom,Dragon,Electric,680,100,150,120,120,100,90,5,True
+646,Kyurem,Dragon,Ice,660,125,130,90,130,90,95,5,True
+646,KyuremBlack Kyurem,Dragon,Ice,700,125,170,100,120,90,95,5,True
+646,KyuremWhite Kyurem,Dragon,Ice,700,125,120,90,170,100,95,5,True
+691,Dragalge,Poison,Dragon,494,65,75,90,97,123,44,6,False
+696,Tyrunt,Rock,Dragon,362,58,89,77,45,45,48,6,False
+697,Tyrantrum,Rock,Dragon,521,82,121,119,69,59,71,6,False
+704,Goomy,Dragon,,300,45,50,35,55,75,40,6,False
+705,Sliggoo,Dragon,,452,68,75,53,83,113,60,6,False
+706,Goodra,Dragon,,600,90,100,70,110,150,80,6,False
+714,Noibat,Flying,Dragon,245,40,30,35,45,40,55,6,False
+715,Noivern,Flying,Dragon,535,85,70,80,97,80,123,6,False
+718,Zygarde50% Forme,Dragon,Ground,600,108,100,121,81,95,95,6,True
+Mean,,,,513.27,82.05,100.44,82.07,87.85,83.05,77.8,,
