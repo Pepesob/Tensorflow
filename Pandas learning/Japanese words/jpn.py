@@ -28,7 +28,7 @@ def main():
     pd.set_option('display.width', 1000)
 
     data = pd.read_excel(io="jpn_words.xls", header=None)
-    data.drop_duplicates(subset=[2],inplace=True)
+    data.drop_duplicates(subset=[2], inplace=True)
     row_length = len(data.index)
 
     # a,e,i,o,u,ka,ki,ku,ke,ko if_word_has_only_known("kekkaku", "a,e,i,o,u,ka,ki,ku,ke,ko".split(sep=","))
@@ -57,7 +57,7 @@ def test():
     pd.set_option('display.width', 1000)
 
     data = pd.read_excel(io="jpn_words.xls", header=None)
-    data.drop_duplicates(subset=[2],inplace=True)
+    data.drop_duplicates(subset=[2], inplace=True)
     row_length = len(data.index)
 
     # a,e,i,o,u,ka,ki,ku,ke,ko if_word_has_only_known("kekkaku", "a,e,i,o,u,ka,ki,ku,ke,ko".split(sep=","))
