@@ -1,6 +1,7 @@
 import pandas as pd
 from random import randint
 
+
 def del_known(word, known):
     word_local = word[:]
     i = 0
@@ -14,7 +15,6 @@ def del_known(word, known):
     return output
 
 
-
 def if_word_has_only_konwn(word, tab_known):
     word_local = word[:]
     for known in tab_known:
@@ -22,28 +22,59 @@ def if_word_has_only_konwn(word, tab_known):
     return not bool(word_local)
 
 
-pd.set_option('display.max_rows', 500)
-pd.set_option('display.max_columns', 500)
-pd.set_option('display.width', 1000)
+def main():
+    pd.set_option('display.max_rows', 500)
+    pd.set_option('display.max_columns', 500)
+    pd.set_option('display.width', 1000)
 
-data = pd.read_excel(io="jpn_words.xls",header=None)
-row_length = len(data.index)
+    data = pd.read_excel(io="jpn_words.xls", header=None)
+    row_length = len(data.index)
 
-# a,e,i,o,u,ka,ki,ku,ke,ko if_word_has_only_known("kekkaku", "a,e,i,o,u,ka,ki,ku,ke,ko".split(sep=","))
+    # a,e,i,o,u,ka,ki,ku,ke,ko if_word_has_only_known("kekkaku", "a,e,i,o,u,ka,ki,ku,ke,ko".split(sep=","))
 
-known_char = input("Podaj znane ci głoski po przecinku: ")
-known_char.split(sep=",")
-
-while True:
-
-    command = input("Kliknij 'ENTER' po nowy wyraz: ")
-    if command.lower() == "q":
+    known_char = input("Podaj znane ci głoski po przecinku: ")
+    known_char = known_char.split(sep=",")
+    if known_char == ['']:
         quit()
 
-    word = data.iloc[randint(0,row_length), 2]
-    while not if_word_has_only_konwn(word,known_char):
-        word = data.iloc[randint(0, row_length), 2]
+    known_char.sort(key=lambda x: len(x), reverse=True)
 
-    print(word,"\n")
+    while True:
+        command = input("Kliknij 'ENTER' po nowy wyraz: ")
+        if command.lower() == "q":
+            quit()
+
+        word = str(data.iloc[randint(0, row_length - 1), 2])
+        while not if_word_has_only_konwn(word, known_char):
+            word = str(data.iloc[randint(0, row_length - 1), 2])
+        print(word, "\n")
 
 
+def test():
+    pd.set_option('display.max_rows', 500)
+    pd.set_option('display.max_columns', 500)
+    pd.set_option('display.width', 1000)
+
+    data = pd.read_excel(io="jpn_words.xls", header=None)
+    row_length = len(data.index)
+
+    # a,e,i,o,u,ka,ki,ku,ke,ko if_word_has_only_known("kekkaku", "a,e,i,o,u,ka,ki,ku,ke,ko".split(sep=","))
+
+    known_char = input("Podaj znane ci głoski po przecinku: ")
+    known_char = known_char.split(sep=",")
+    if known_char == ['']:
+        quit()
+
+    known_char.sort(key=lambda x: len(x), reverse=True)
+
+    for i in range(7830):
+        word = str(data.iloc[i, 2])
+        if if_word_has_only_konwn(word, known_char):
+            print(i, ", ", word, ", yes", sep="")
+        else:
+            pass
+            # print(i, ", ", word, ", no", sep="")
+
+
+if __name__ == "__main__":
+    test()
