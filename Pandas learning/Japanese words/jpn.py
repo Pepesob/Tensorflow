@@ -28,6 +28,7 @@ def main():
     pd.set_option('display.width', 1000)
 
     data = pd.read_excel(io="jpn_words.xls", header=None)
+    data.drop_duplicates(subset=[2],inplace=True)
     row_length = len(data.index)
 
     # a,e,i,o,u,ka,ki,ku,ke,ko if_word_has_only_known("kekkaku", "a,e,i,o,u,ka,ki,ku,ke,ko".split(sep=","))
@@ -56,6 +57,7 @@ def test():
     pd.set_option('display.width', 1000)
 
     data = pd.read_excel(io="jpn_words.xls", header=None)
+    data.drop_duplicates(subset=[2],inplace=True)
     row_length = len(data.index)
 
     # a,e,i,o,u,ka,ki,ku,ke,ko if_word_has_only_known("kekkaku", "a,e,i,o,u,ka,ki,ku,ke,ko".split(sep=","))
@@ -67,14 +69,13 @@ def test():
 
     known_char.sort(key=lambda x: len(x), reverse=True)
 
-    for i in range(7830):
+    for i in range(row_length):
         word = str(data.iloc[i, 2])
         if if_word_has_only_konwn(word, known_char):
             print(i, ", ", word, ", yes", sep="")
         else:
-            pass
-            # print(i, ", ", word, ", no", sep="")
+            print(i, ", ", word, ", no", sep="")
 
 
 if __name__ == "__main__":
-    test()
+    main()
