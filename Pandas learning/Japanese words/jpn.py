@@ -1,7 +1,6 @@
 import pandas as pd
 from random import randint
 
-
 def del_known(word, known):
     word_local = word[:]
     i = 0
@@ -14,8 +13,10 @@ def del_known(word, known):
             i += 1
     return output
 
-
-def if_word_has_only_konwn(word, tab_known):
+# problem jest taki że czasem jak jest jakaś jedna sama zjebana spółgłoska niewiadomo skąd to potrafi połączyć się z
+# samogłoską po usunięciu i rozjebać algorytm; rozwiązanie jest takie że dziele wyraz na tablice w ten sposób że
+# wsadzam sylabę od samogłoski (wyłącznie) do samogłoski (włącznie)
+def if_word_has_only_konwn(word:str, tab_known:list)->bool:
     word_local = word[:]
     for known in tab_known:
         word_local = del_known(word_local, known)
@@ -60,7 +61,7 @@ def test():
     data.drop_duplicates(subset=[2], inplace=True)
     row_length = len(data.index)
 
-    # a,e,i,o,u,ka,ki,ku,ke,ko if_word_has_only_known("kekkaku", "a,e,i,o,u,ka,ki,ku,ke,ko".split(sep=","))
+    # a,e,i,o,u,ka,ki,ku,ke,ko,sa,shi,su,se,so,ta,chi,tsu,te,to if_word_has_only_known("kekkaku", "a,e,i,o,u,ka,ki,ku,ke,ko,sa,shi,su,se,so".split(sep=","))
 
     known_char = input("Podaj znane ci głoski po przecinku: ")
     known_char = known_char.split(sep=",")

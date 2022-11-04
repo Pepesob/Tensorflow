@@ -18,6 +18,8 @@ x = np.array(data.drop(predict, axis=1))
 y = np.array(data.loc[:,predict])
 x_train, x_test, y_train, y_test = sklearn.model_selection.train_test_split(x, y, test_size=0.1)
 
+print(x_train)
+
 """
 best = 0
 for _ in range(30):
