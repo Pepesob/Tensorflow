@@ -46,10 +46,14 @@ def main():
         if command.lower() == "q":
             quit()
 
-        word = str(data.iloc[randint(0, row_length - 1), 2])
+        r = randint(0, row_length - 1)
+        word = str(data.iloc[r, 2])
         while not if_word_has_only_konwn(word, known_char):
-            word = str(data.iloc[randint(0, row_length - 1), 2])
-        print(word, "\n")
+            r = randint(0, row_length - 1)
+            word = str(data.iloc[r, 2])
+        print(word, end="    ")
+        input()
+        print(data.iloc[r,1],"\n")
 
 
 def test():
@@ -61,7 +65,7 @@ def test():
     data.drop_duplicates(subset=[2], inplace=True)
     row_length = len(data.index)
 
-    # a,e,i,o,u,ka,ki,ku,ke,ko,sa,shi,su,se,so,ta,chi,tsu,te,to if_word_has_only_known("kekkaku", "a,e,i,o,u,ka,ki,ku,ke,ko,sa,shi,su,se,so".split(sep=","))
+    # a,e,i,o,u,ka,ki,ku,ke,ko,sa,shi,su,se,so,ta,chi,tsu,te,to,na,ni,nu,ne,no,ga,gi,gu,ge,go,za,ji,zu,ze,zo,da,ji,zu,de,do,ha,hi,fu,he,ho,ba,bi,bu,be,bo,pa,pi,pu,pe,po if_word_has_only_known("kekkaku", "a,e,i,o,u,ka,ki,ku,ke,ko,sa,shi,su,se,so".split(sep=","))
 
     known_char = input("Podaj znane ci głoski po przecinku: ")
     known_char = known_char.split(sep=",")

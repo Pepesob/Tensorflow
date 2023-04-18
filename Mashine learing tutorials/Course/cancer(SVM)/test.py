@@ -4,6 +4,7 @@ from sklearn import svm
 from sklearn import svm
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn import metrics
+import numpy as np
 
 
 cancer = datasets.load_breast_cancer()
@@ -22,7 +23,9 @@ classes = ['malignant', 'benign']
 clf = svm.SVC(kernel="linear")
 clf.fit(x_train,y_train)
 
+
 y_pred = clf.predict(x_test)
 acc = metrics.accuracy_score(y_test,y_pred)
+
 
 print(acc)

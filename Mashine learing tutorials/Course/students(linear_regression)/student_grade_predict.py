@@ -18,29 +18,18 @@ x = np.array(data.drop(predict, axis=1))
 y = np.array(data.loc[:,predict])
 x_train, x_test, y_train, y_test = sklearn.model_selection.train_test_split(x, y, test_size=0.1)
 
-print(x_train)
+print(data)
 
-"""
 best = 0
-for _ in range(30):
-    x_train, x_test, y_train, y_test = sklearn.model_selection.train_test_split(x,y,test_size=0.1)
+
+x_train, x_test, y_train, y_test = sklearn.model_selection.train_test_split(x,y,test_size=0.1)
 
 
-    linear = linear_model.LinearRegression()
+linear = linear_model.LinearRegression()
 
-    linear.fit(x_train, y_train)
-    acc = linear.score(x_test, y_test)
-    print(acc)
-
-    if acc > best:
-        acc = best
-        with open("studentmodel.pickle", "wb") as file:
-            pickle.dump(linear, file)
-"""
-
-pickle_in = open("studentmodel.pickle", "rb")
-linear = pickle.load(pickle_in)
-
+linear.fit(x_train, y_train)
+acc = linear.score(x_test, y_test)
+print(acc)
 
 print("Coefficient: ", linear.coef_)
 print("Intercept: ", linear.intercept_)
